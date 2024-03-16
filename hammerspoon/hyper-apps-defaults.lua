@@ -14,4 +14,5 @@ return {
   { 'r', 'ChatGPT'},       -- 'R' for 'ChatGPT'
   { 's', 'Slack' },             -- "S" for "Slack"
   { 't', 'iTerm' },             -- "T" for "Terminal"
+  { 'x', 'IntelliJ IDEA' }   
 }
