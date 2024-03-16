@@ -11,6 +11,7 @@ return {
   { 'e', 'Visual Studio Code' },              -- "E" for "Editor"
   { 'f', 'Finder' },            -- "F" for "Finder"
   { 'g', 'Mail' },       -- "G" for "Gmail"
+  { 'h', 'ChatGPT'},       -- 'H' for 'ChatGPT'
   { 's', 'Slack' },             -- "S" for "Slack"
   { 't', 'iTerm' },             -- "T" for "Terminal"
 }
