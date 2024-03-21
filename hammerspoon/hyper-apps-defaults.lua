@@ -8,7 +8,7 @@ return {
   { 'b', 'Google Chrome' },     -- "B" for "Browser"
   { 'c', 'Telegram' },             -- "C for "Chat"
   { 'd', 'Microsoft To Do' }, -- "D" for "Do!" ... or "Done!"
-  { 'e', 'Visual Studio Code' },              -- "E" for "Editor"
+  { 'e', 'Zed' },              -- "E" for "Editor"
   { 'f', 'Finder' },            -- "F" for "Finder"
   { 'g', 'Mail' },       -- "G" for "Gmail"
   { 'r', 'ChatGPT'},       -- 'R' for 'ChatGPT'
