@@ -7,7 +7,7 @@ return {
   { 'a', 'Spotify' },             -- "A" for "Apple Music"
   { 'b', 'Google Chrome' },     -- "B" for "Browser"
   { 'c', 'Telegram' },             -- "C for "Chat"
-  { 'd', 'Microsoft To Do' }, -- "D" for "Do!" ... or "Done!"
+  { 'd', 'Logseq' }, -- "D" for "Do!" ... or "Done!"
   { 'e', 'Zed' },              -- "E" for "Editor"
   { 'f', 'Finder' },            -- "F" for "Finder"
   { 'g', 'Mail' },       -- "G" for "Gmail"
