@@ -8,6 +8,7 @@ return {
   { 'b', 'Google Chrome' },     -- "B" for "Browser"
   { 'c', 'Telegram' },             -- "C for "Chat"
   { 'd', 'Logseq' }, -- "D" for "Do!" ... or "Done!"
+  { 'q', 'Octarine' },
   { 'e', 'Zed' },              -- "E" for "Editor"
   { 'f', 'Finder' },            -- "F" for "Finder"
   { 'g', 'Mail' },       -- "G" for "Gmail"
