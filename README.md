@@ -163,9 +163,9 @@ Hyper Mode ships with the default keybindings below, but you'll likely want to p
 
 This setup is honed and tested with the following dependencies.
 
-- macOS Big Sur, 11.6
-- [Karabiner-Elements 13.7.0][karabiner]
-- [Hammerspoon 0.9.90][hammerspoon]
+- macOS Sequoia, 15.7
+- [Karabiner-Elements 15.5.0][karabiner]
+- [Hammerspoon 1.0.0][hammerspoon]
 
 ## Installation
 
