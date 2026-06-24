@@ -14,6 +14,6 @@ return {
   { 'g', 'Mail' },       -- "G" for "Gmail"
   { 'r', 'ChatGPT'},       -- 'R' for 'ChatGPT'
   { 's', 'Slack' },             -- "S" for "Slack"
-  { 't', 'iTerm' },             -- "T" for "Terminal"
+  { 't', 'cmux' },              -- "T" for "Terminal"
   { 'x', 'IntelliJ IDEA' }   
 }
