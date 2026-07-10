@@ -1,6 +1,8 @@
+local log = hs.logger.new('hyper')
 local status, hyperModeAppMappings = pcall(require, 'keyboard.hyper-apps')
 
 if not status then
+  log:w('Unable to load keyboard.hyper-apps; using defaults:', hyperModeAppMappings)
   hyperModeAppMappings = require('keyboard.hyper-apps-defaults')
 end
 
@@ -13,7 +15,7 @@ for i, mapping in ipairs(hyperModeAppMappings) do
     elseif (type(app) == 'function') then
       app()
     else
-      hs.logger.new('hyper'):e('Invalid mapping for Hyper +', key)
+      log:e('Invalid mapping for Hyper +', key)
     end
   end)
 end

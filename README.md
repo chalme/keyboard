@@ -138,6 +138,13 @@ With a new modifier key defined, we open a whole world of possibilities. I find 
 
 Hyper Mode ships with the default keybindings below, but you'll likely want to personalize this setup. See [`hammerspoon/hyper-apps-defaults.lua`](hammerspoon/hyper-apps-defaults.lua) for instructions on configuring shortcuts to launch *your* most commonly-used apps.
 
+#### Personal ChatGPT keybindings in this fork
+
+This fork tracks [`hammerspoon/hyper-apps.lua`](hammerspoon/hyper-apps.lua), which takes precedence over the upstream defaults. See that file for the complete personal mapping.
+
+- <kbd>hyper</kbd> + <kbd>d</kbd> to open ChatGPT
+- <kbd>hyper</kbd> + <kbd>r</kbd> to open ChatGPT Classic
+
 #### Default app keybindings
 
 - <kbd>hyper</kbd> + <kbd>a</kbd> to open iTunes ("A" for "Apple Music")
