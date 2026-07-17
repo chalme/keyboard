@@ -142,8 +142,7 @@ Hyper Mode ships with the default keybindings below, but you'll likely want to p
 
 This fork tracks [`hammerspoon/hyper-apps.lua`](hammerspoon/hyper-apps.lua), which takes precedence over the upstream defaults. See that file for the complete personal mapping.
 
-- <kbd>hyper</kbd> + <kbd>d</kbd> to open ChatGPT
-- <kbd>hyper</kbd> + <kbd>r</kbd> to open ChatGPT Classic
+- <kbd>hyper</kbd> + <kbd>r</kbd> to open ChatGPT
 
 #### Default app keybindings
 
